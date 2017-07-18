@@ -7,10 +7,10 @@
 # Basics
 
 #### Link to the Github Repository for the Project
-[BYOB]('https://github.com/jennPeavler/build-your-own-backend')
+[BYOB](https://github.com/jennPeavler/build-your-own-backend)
 
 #### Link to the Deployed Application
-[Heroku]('https://build-a-backend-jenn-peavler.herokuapp.com/api/v1/countries')
+[Heroku](https://build-a-backend-jenn-peavler.herokuapp.com/api/v1/countries)
 
 
 ## Completion
@@ -45,7 +45,7 @@ We discussed this in class and over slack.  Solution is pending.
 # Code Quality
 
 #### Link to a specific block of your code on Github that you are proud of
-[happy code]('https://github.com/jennPeavler/build-your-own-backend/blob/master/Server/getRequests.js#L5-L23')
+[happy code](https://github.com/jennPeavler/build-your-own-backend/blob/master/Server/getRequests.js#L5-L23)
 
 * Why were you proud of this piece of code?
 I like that I combined the to GET endpoints for all of one resource (i.e. ‘/api/v1/merchants’) into one modular file.  This
@@ -53,7 +53,7 @@ will allow me to easily add enpoints in the future.  Within this block of code, 
 variable dynamic so that iso_code is not hardcoded.
 
 #### Link to a specific block of your code on Github that you feel not great about
-[sad code]('https://github.com/jennPeavler/build-your-own-backend/blob/master/Server/patchRequests.js#L38-L103')
+[sad code](https://github.com/jennPeavler/build-your-own-backend/blob/master/Server/patchRequests.js#L38-L103)
 
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 While this code is functional, the if, else if, else block of code is very long.  I will be happier about it when I go back
